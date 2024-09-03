@@ -1,4 +1,4 @@
-# Tableau_ECommerce_Profit_Report_2024
+# Tableau_E-Commerce_Profit_Report_2024
 A Tableau Desktop Dashboard visualising E-Commerce Profit
 
 Project Name: E-Commerce Profit Report (2024)
