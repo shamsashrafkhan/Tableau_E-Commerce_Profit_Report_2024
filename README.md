@@ -11,4 +11,5 @@ Table of Contents:
 3. A folder containing CSV files (i.e. Customer.csv, Delivery.csv, Invoice.csv, Order.csv, Product.csv, Transaction.csv)
 
 Description: This project is done on Tableau Desktop 2019.3.0 (20193.19.0821.2225) 64-bit.
-All the CSV files contain dummy data.
+
+Note: All the CSV files contain dummy data.
