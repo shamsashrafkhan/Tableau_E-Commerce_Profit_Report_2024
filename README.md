@@ -13,3 +13,5 @@ Table of Contents:
 Description: This project is done on Tableau Desktop 2019.3.0 (20193.19.0821.2225) 64-bit.
 
 Note: All the CSV and TWB files contain dummy data.
+
+Copyright © 2024 Shams Ashraf Khan. All rights reserved.
